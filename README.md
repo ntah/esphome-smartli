@@ -7,7 +7,7 @@ Komponen ESPHome untuk membaca cell voltage secara efisien dari Modbus BMS mengg
 
 
 external_components:
-  - source: github://yourusername/esphome-smartli
+  - source: github://ntah/esphome-smartli
 
 custom_component:
   - lambda: |-
